@@ -1,7 +1,9 @@
 ## Project
 devops-capstone-project
 
-# Description
+![Build Status](https://github.com/Adhikari-Suyash/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
+### Description
 github repo for devops capstone project
 
 # DevOps Capstone Template
